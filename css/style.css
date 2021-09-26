@@ -13,7 +13,7 @@ body {
     position: relative;
     overflow: hidden;
     background-color: #fff;
-    background: url(../img/bg.jpg), center, no-repeat;
+    background: url(../img/bg.jpg), no-repeat, center;
     background-size: cover;
 }
 
@@ -398,7 +398,7 @@ a {
         text-indent: 30px;
     }
 
-    .foot{
+    .foot {
         bottom: 15%;
     }
 
